@@ -21,13 +21,19 @@ The easiest way to find a video file to use is to download it from youtube. I su
     - Select video clip in pro tools track lane view 
     - Select "File" --> "Bounce to"
     - This will render a new version of the video with your new audio
-
+    
 ## Delivering Video
 Git isn't the best at handling large binary files like videos, so you have a couple options for submitting video:
 
 - Clone this repo, add you video file to your repo, submit a PR
+
+OR
+
 - Submit your video to an online hosting platform, clone this repo, paste the link in this README and submit a PR
   - Because you'll be using copywritten work, I suggest you set the video to private and send me an invite to view.
+
+OR
+
 - Bring your video file into class on a USB thumbstick and/or hardrive, I'll physically transfer it to my machine.
 
 ## Your Video Link Below
