@@ -3,7 +3,8 @@ Game Scene Remix
 
 ## Assignment
 
-Add new sounds to your favorite video game cutscene. Using Pro Tools, add completely new sound effects, dialogue and music to a video game cutscene of your choice. 
+Add new sounds to your favorite video game cutscene or trailer. Using Pro Tools, add completely new sound effects, dialogue and music to a video game cutscene of your choice. 
+
 
 ## Process
 
@@ -25,16 +26,20 @@ The easiest way to find a video file to use is to download it from youtube. I su
 ## Delivering Video
 Git isn't the best at handling large binary files like videos, so you have a couple options for submitting video:
 
-- Clone this repo, add you video file to your repo, submit a PR
+- Clone this repo, add you video file (with new sound) to your repo, submit a PR
 
 OR
 
-- Submit your video to an online hosting platform, clone this repo, paste the link in this README and submit a PR
+- Submit your video (with new sound) to an online hosting platform, clone this repo, paste the link in this README and submit a PR
   - Because you'll be using copywritten work, I suggest you set the video to private and send me an invite to view.
 
 OR
 
 - Bring your video file into class on a USB thumbstick and/or hardrive, I'll physically transfer it to my machine.
+
+OR
+
+- If you have problems bouncing a video, render your new soundtrack as a .wav file and submit it along with the original video. 
 
 ## Your Video Link Below
 <!-- paste your video link here -->
