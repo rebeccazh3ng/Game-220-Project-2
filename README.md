@@ -9,7 +9,7 @@ Add new sounds to your favorite video game cutscene. Using Pro Tools, add comple
 
 ### Finding Videos
 
-The easiest way to find a video file to use is to download it from youtube. I suggest using [yt-download](https://www.yt-download.org/file/mp4/JnQrVKNvqqI). You should be able to download an MP4 file.
+The easiest way to find a video file to use is to download it from youtube. I suggest using [yt-download](https://www.yt-download.org). You should be able to download an MP4 file.
 
 ### Using Videos in Pro Tools
 - Importing [Tutorial Video]( https://www.youtube.com/watch?&v=_CL7OybUTBE&feature=emb_log)
@@ -17,7 +17,7 @@ The easiest way to find a video file to use is to download it from youtube. I su
     - Select "File" -> "Import"
     - Select your video file
 
-- Bouncing [Tutorual Video](https://www.youtube.com/watch?v=DZfrd0NJt9k)
+- Bouncing [Tutorial Video](https://www.youtube.com/watch?v=DZfrd0NJt9k)
     - Select video clip in pro tools track lane view 
     - Select "File" --> "Bounce to"
     - This will render a new version of the video with your new audio
