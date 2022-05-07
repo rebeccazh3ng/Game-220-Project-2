@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ccbbcfe3-5f24-4050-b261-9f464ded3944}">
+		<property name="assetPath">
+			<value>dirt_04.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.95499999999999996</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{32963569-5871-4bfa-8807-7af8f49bc877}</destination>
+		</relationship>
+	</object>
+</objects>
